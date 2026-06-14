@@ -1,0 +1,571 @@
+[
+  {
+    "id": "brigadeiro",
+    "nome": "Brigadeiro",
+    "linkFoto": "img/512px-Brigadeiro.webp",
+    "texto1": [
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "Chocolate granulado para decorar"
+    ],
+    "texto2": [
+      "Em uma panela média, misture o leite condensado, o chocolate em pó e a manteiga.",
+      "Leve ao fogo médio, mexendo sempre, até a mistura começar a desgrudar do fundo da panela.",
+      "Retire do fogo e deixe esfriar um pouco. Depois, unte as mãos com manteiga e faça bolinhas.",
+      "Passe as bolinhas no chocolate granulado e sirva em forminhas de papel."
+    ],
+    "dicas": [
+      "Adicione uma pitada de canela para variar o sabor.",
+      "Use confeitos coloridos para uma apresentação mais festiva."
+    ]
+  },
+  {
+    "id": "x-tudo",
+    "nome": "X-Tudo de Pernil",
+    "linkFoto": "img/x-tudo-de-pernil-1024x494.webp",
+    "texto1": [
+      "500 g de pernil moído",
+      "1 embalagem de tempero para hambúrguer",
+      "2 colheres (sopa) de óleo",
+      "5 fatias de queijo prato",
+      "5 fatias de bacon cortado ao meio",
+      "5 ovos",
+      "5 pães de hambúrguer",
+      "3 colheres (sopa) de maionese",
+      "1 tomate cortado em rodelas",
+      "5 folhas de alface"
+    ],
+    "texto2": [
+      "Tempere o pernil moído, misture bem e modele os hambúrgueres.",
+      "Frite o bacon até ficar crocante e reserve.",
+      "Na mesma frigideira, frite os hambúrgueres por cerca de 4 minutos de cada lado.",
+      "Frite os ovos e monte os sanduíches com maionese, hambúrguer, queijo, bacon, ovo, tomate e alface."
+    ],
+    "dicas": [
+      "Sirva com batatas fritas ou onion rings.",
+      "Use cheddar ou muçarela para variar o sabor."
+    ]
+  },
+  {
+    "id": "macarrao",
+    "nome": "Macarrão ao Molho de Tomate",
+    "linkFoto": "img/f1b73e77535c24a9b29b84c36a10.jpg",
+    "texto1": [
+      "250 g de macarrão",
+      "2 colheres (sopa) de azeite de oliva",
+      "2 dentes de alho picados",
+      "1 cebola média picada",
+      "400 g de tomate pelado em cubos",
+      "1 colher (chá) de orégano seco",
+      "Sal e pimenta-do-reino a gosto",
+      "Folhas de manjericão para decorar"
+    ],
+    "texto2": [
+      "Cozinhe o macarrão conforme as instruções da embalagem até ficar al dente.",
+      "Aqueça o azeite, refogue o alho e a cebola até dourar levemente.",
+      "Adicione o tomate, o orégano, o sal e a pimenta. Cozinhe até o molho engrossar.",
+      "Misture o macarrão cozido ao molho e finalize com manjericão."
+    ],
+    "dicas": [
+      "Finalize com queijo parmesão ralado.",
+      "Adicione abobrinha ou pimentão ao molho para deixar mais nutritivo."
+    ]
+  },
+  {
+    "id": "salada-caesar",
+    "nome": "Salada Caesar",
+    "linkFoto": "img/salada.webp",
+    "texto1": [
+      "1 pé de alface romana",
+      "1/2 xícara de queijo parmesão ralado",
+      "1 xícara de croutons",
+      "1/2 xícara de molho Caesar",
+      "Sal e pimenta-do-reino a gosto",
+      "1 peito de frango grelhado e fatiado (opcional)"
+    ],
+    "texto2": [
+      "Lave e seque bem as folhas de alface romana.",
+      "Rasgue as folhas em pedaços médios e coloque em uma tigela grande.",
+      "Adicione parmesão, croutons e molho Caesar. Misture delicadamente.",
+      "Tempere com sal e pimenta e finalize com frango grelhado, se desejar."
+    ],
+    "dicas": [
+      "Sirva logo após misturar para manter a crocância dos croutons.",
+      "Adicione abacate fatiado para uma textura cremosa."
+    ]
+  },
+  {
+    "id": "lasanha",
+    "nome": "Lasanha à Bolonhesa",
+    "linkFoto": "img/lasanha.webp",
+    "texto1": [
+      "500 g de massa para lasanha",
+      "400 g de carne moída",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "400 ml de molho de tomate",
+      "200 g de queijo mussarela fatiado",
+      "Sal, pimenta e orégano a gosto"
+    ],
+    "texto2": [
+      "Cozinhe a massa conforme as instruções da embalagem e reserve.",
+      "Refogue a cebola e o alho, adicione a carne moída e deixe dourar.",
+      "Acrescente o molho de tomate, sal, pimenta e orégano.",
+      "Em um refratário, intercale massa, molho e queijo. Finalize com queijo e leve ao forno até gratinar."
+    ],
+    "dicas": [
+      "Substitua a carne moída por frango desfiado para variar.",
+      "Sirva com salada fresca para complementar a refeição."
+    ]
+  },
+  {
+    "id": "panqueca-frango",
+    "nome": "Panqueca de Frango",
+    "linkFoto": "img/panqueca.webp",
+    "texto1": [
+      "2 ovos",
+      "1 xícara de leite",
+      "1 xícara de farinha de trigo",
+      "1 pitada de sal",
+      "300 g de frango cozido e desfiado",
+      "1 cebola picada",
+      "2 colheres de molho de tomate",
+      "Queijo ralado a gosto"
+    ],
+    "texto2": [
+      "Bata os ovos, o leite, a farinha e o sal até formar uma massa homogênea.",
+      "Faça panquecas finas em uma frigideira antiaderente.",
+      "Refogue a cebola e misture com o frango e o molho de tomate.",
+      "Recheie, enrole, cubra com queijo e leve ao forno a 180°C por 15 minutos."
+    ],
+    "dicas": [
+      "Use requeijão no recheio para deixar mais cremoso.",
+      "Sirva com salada ou arroz branco."
+    ]
+  },
+  {
+    "id": "bolo-chocolate",
+    "nome": "Bolo de Chocolate",
+    "linkFoto": "img/bolo_chocolate.webp",
+    "texto1": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1 xícara de leite",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de chocolate em pó",
+      "1 colher de fermento em pó"
+    ],
+    "texto2": [
+      "Bata os ovos, o açúcar e o óleo até formar um creme homogêneo.",
+      "Acrescente o leite, a farinha e o chocolate em pó, misturando bem.",
+      "Adicione o fermento por último e misture levemente.",
+      "Despeje em forma untada e leve ao forno pré-aquecido a 180°C por cerca de 35 minutos."
+    ],
+    "dicas": [
+      "Decore com chocolate derretido ou granulado.",
+      "Recheie com brigadeiro ou doce de leite."
+    ]
+  },
+  {
+    "id": "pizza-margherita",
+    "nome": "Pizza Margherita",
+    "linkFoto": "img/pizza-marguerita-09-730x548.webp",
+    "texto1": [
+      "1 massa de pizza pronta ou caseira",
+      "200 ml de molho de tomate",
+      "150 g de queijo mussarela fatiado",
+      "Folhas de manjericão fresco",
+      "Orégano a gosto",
+      "Azeite de oliva"
+    ],
+    "texto2": [
+      "Pré-aqueça o forno a 200°C.",
+      "Espalhe o molho sobre a massa e adicione o queijo.",
+      "Coloque folhas de manjericão, orégano e um fio de azeite.",
+      "Leve ao forno por 15 a 20 minutos ou até o queijo derreter e a borda dourar."
+    ],
+    "dicas": [
+      "Use muçarela fresca para um sabor mais autêntico.",
+      "Adicione tomate seco, azeitonas ou pepperoni se quiser variar."
+    ]
+  },
+  {
+    "id": "pudim-leite",
+    "nome": "Pudim de Leite Condensado",
+    "linkFoto": "img/pudimdeleitecondensado.webp",
+    "texto1": [
+      "1 lata de leite condensado",
+      "2 medidas da lata de leite",
+      "3 ovos",
+      "1 xícara de açúcar para a calda"
+    ],
+    "texto2": [
+      "Derreta o açúcar em uma forma até formar uma calda dourada.",
+      "Bata o leite condensado, o leite e os ovos no liquidificador.",
+      "Despeje na forma caramelizada e asse em banho-maria por cerca de 1 hora.",
+      "Leve à geladeira antes de desenformar."
+    ],
+    "dicas": [
+      "Passe a mistura por uma peneira para ficar mais liso.",
+      "Desenforme apenas quando estiver bem gelado."
+    ]
+  },
+  {
+    "id": "strogonoff-frango",
+    "nome": "Strogonoff de Frango",
+    "linkFoto": "img/Strogonoff-de-Frango-Cremoso.webp",
+    "texto1": [
+      "500 g de peito de frango em cubos",
+      "1 cebola picada",
+      "2 colheres de ketchup",
+      "1 colher de mostarda",
+      "1 caixa de creme de leite",
+      "Sal, pimenta e óleo a gosto"
+    ],
+    "texto2": [
+      "Refogue a cebola no óleo e acrescente o frango.",
+      "Tempere com sal e pimenta e deixe dourar bem.",
+      "Adicione ketchup e mostarda, misturando até formar um molho.",
+      "Desligue o fogo, acrescente o creme de leite e sirva com arroz e batata palha."
+    ],
+    "dicas": [
+      "Cogumelos deixam o prato mais completo.",
+      "Não deixe o creme de leite ferver para evitar talhar."
+    ]
+  },
+  {
+    "id": "feijoada-simples",
+    "nome": "Feijoada Simples",
+    "linkFoto": "img/free-photo-of-feijoada-tradicional-brasileira-com-acompanhamentos.webp",
+    "texto1": [
+      "500 g de feijão preto",
+      "300 g de carne seca dessalgada",
+      "200 g de linguiça calabresa",
+      "200 g de costelinha",
+      "1 cebola picada",
+      "3 dentes de alho picados",
+      "Louro, sal e pimenta a gosto"
+    ],
+    "texto2": [
+      "Deixe o feijão de molho por algumas horas.",
+      "Cozinhe o feijão com as carnes e folhas de louro até ficar macio.",
+      "Refogue alho e cebola em uma panela separada e misture à feijoada.",
+      "Ajuste o sal e cozinhe até o caldo engrossar."
+    ],
+    "dicas": [
+      "Sirva com arroz, couve, farofa e laranja.",
+      "Dessalgue bem as carnes para não pesar no sal."
+    ]
+  },
+  {
+    "id": "omelete-queijo",
+    "nome": "Omelete de Queijo",
+    "linkFoto": "img/Omelete_de_queijo_5.webp",
+    "texto1": [
+      "3 ovos",
+      "1/2 xícara de queijo ralado ou picado",
+      "1 colher de leite",
+      "Sal e pimenta a gosto",
+      "Cheiro-verde a gosto"
+    ],
+    "texto2": [
+      "Bata os ovos com leite, sal e pimenta.",
+      "Aqueça uma frigideira antiaderente e despeje a mistura.",
+      "Adicione o queijo e cozinhe em fogo baixo.",
+      "Dobre a omelete ao meio e finalize com cheiro-verde."
+    ],
+    "dicas": [
+      "Use fogo baixo para não queimar por fora.",
+      "Adicione tomate, presunto ou espinafre para variar."
+    ]
+  },
+  {
+    "id": "arroz-forno",
+    "nome": "Arroz de Forno",
+    "linkFoto": "img/arroz-de-forno-com-presunto-e-queijo-730x480.webp",
+    "texto1": [
+      "3 xícaras de arroz cozido",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "200 g de presunto picado",
+      "200 g de mussarela picada",
+      "1/2 xícara de molho de tomate",
+      "Queijo ralado a gosto"
+    ],
+    "texto2": [
+      "Misture o arroz cozido com milho, ervilha, presunto e mussarela.",
+      "Acrescente o molho de tomate e misture novamente.",
+      "Coloque em um refratário e cubra com queijo ralado.",
+      "Leve ao forno até gratinar."
+    ],
+    "dicas": [
+      "Ótima receita para reaproveitar arroz do dia anterior.",
+      "Frango desfiado também combina muito bem."
+    ]
+  },
+  {
+    "id": "tacos-carne",
+    "nome": "Tacos de Carne",
+    "linkFoto": "img/tres-tacos-de-rua-de-pastor-de-porco-em-tortilha-de-milho-amarelo-com-cebola-de-carne-em-uma-mesa-de-madeira_1048944-21545563.webp",
+    "texto1": [
+      "8 tortilhas pequenas",
+      "400 g de carne moída",
+      "1 cebola picada",
+      "1 tomate picado",
+      "Alface picada",
+      "Queijo ralado",
+      "Sal, páprica e pimenta a gosto"
+    ],
+    "texto2": [
+      "Refogue a cebola e adicione a carne moída.",
+      "Tempere com sal, páprica e pimenta.",
+      "Aqueça as tortilhas rapidamente na frigideira.",
+      "Monte os tacos com carne, tomate, alface e queijo."
+    ],
+    "dicas": [
+      "Sirva com molho de pimenta ou guacamole.",
+      "Use tortilhas crocantes se preferir textura mais firme."
+    ]
+  },
+  {
+    "id": "cuscuz-nordestino",
+    "nome": "Cuscuz Nordestino",
+    "texto1": [
+      "2 xícaras de flocão de milho",
+      "1 xícara de água",
+      "1/2 colher (chá) de sal",
+      "1 colher (sopa) de manteiga",
+      "Queijo coalho ou ovo cozido para acompanhar"
+    ],
+    "texto2": [
+      "Misture o flocão com o sal e umedeça com a água aos poucos.",
+      "Deixe hidratar por 10 minutos para os grãos ficarem macios.",
+      "Coloque na cuscuzeira e cozinhe no vapor por cerca de 12 minutos.",
+      "Finalize com manteiga e sirva com queijo coalho ou ovo cozido."
+    ],
+    "dicas": [
+      "Não aperte o cuscuz na cuscuzeira para ele ficar soltinho.",
+      "Fica ótimo com leite, carne seca ou frango desfiado."
+    ],
+    "linkFoto": "img/recipeshandler.webp"
+  },
+  {
+    "id": "escondidinho-carne",
+    "nome": "Escondidinho de Carne",
+    "texto1": [
+      "500 g de mandioca cozida",
+      "300 g de carne moída",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "1/2 xícara de leite",
+      "2 colheres (sopa) de manteiga",
+      "Queijo mussarela a gosto",
+      "Sal e cheiro-verde a gosto"
+    ],
+    "texto2": [
+      "Amasse a mandioca cozida com leite, manteiga e sal até formar um purê.",
+      "Refogue a cebola, o alho e a carne moída até ficar bem sequinha.",
+      "Em uma travessa, coloque uma camada de purê, a carne e outra camada de purê.",
+      "Cubra com queijo e leve ao forno até gratinar."
+    ],
+    "dicas": [
+      "Também combina com carne seca desfiada.",
+      "Use requeijão no recheio para deixar mais cremoso."
+    ],
+    "linkFoto": "img/Escondidinho-de-Carne-Seca.webp"
+  },
+  {
+    "id": "moqueca-peixe",
+    "nome": "Moqueca de Peixe",
+    "texto1": [
+      "600 g de peixe em postas",
+      "1 cebola em rodelas",
+      "1 pimentão em rodelas",
+      "2 tomates em rodelas",
+      "200 ml de leite de coco",
+      "2 colheres (sopa) de azeite de dendê",
+      "Coentro, sal e limão a gosto"
+    ],
+    "texto2": [
+      "Tempere o peixe com sal, limão e alho e deixe descansar por 15 minutos.",
+      "Monte camadas de cebola, pimentão, tomate e peixe em uma panela.",
+      "Adicione o leite de coco e cozinhe em fogo baixo até o peixe ficar macio.",
+      "Finalize com azeite de dendê e coentro."
+    ],
+    "dicas": [
+      "Evite mexer muito para o peixe não desmanchar.",
+      "Sirva com arroz branco e pirão."
+    ],
+    "linkFoto": "img/94841-original.webp"
+  },
+  {
+    "id": "fricasse-frango",
+    "nome": "Fricassê de Frango",
+    "texto1": [
+      "2 xícaras de frango cozido e desfiado",
+      "1 lata de milho verde",
+      "1 caixa de creme de leite",
+      "1 copo de requeijão",
+      "1/2 cebola picada",
+      "Queijo mussarela a gosto",
+      "Batata palha para finalizar",
+      "Sal e pimenta a gosto"
+    ],
+    "texto2": [
+      "Bata no liquidificador o milho, o creme de leite e o requeijão.",
+      "Refogue a cebola e misture o frango desfiado.",
+      "Adicione o creme batido e cozinhe até engrossar levemente.",
+      "Coloque em uma travessa, cubra com queijo, gratine e finalize com batata palha."
+    ],
+    "dicas": [
+      "Coloque a batata palha só na hora de servir.",
+      "Use frango temperado para dar mais sabor."
+    ],
+    "linkFoto": "img/fricasse_de_frango.webp"
+  },
+  {
+    "id": "pao-queijo",
+    "nome": "Pão de Queijo",
+    "texto1": [
+      "2 xícaras de polvilho doce",
+      "1 xícara de queijo meia cura ralado",
+      "1/2 xícara de leite",
+      "1/4 xícara de óleo",
+      "1 ovo",
+      "1 pitada de sal"
+    ],
+    "texto2": [
+      "Aqueça o leite com o óleo e o sal até começar a ferver.",
+      "Despeje sobre o polvilho e misture bem.",
+      "Adicione o ovo e o queijo, mexendo até formar uma massa modelável.",
+      "Modele bolinhas e asse em forno preaquecido até dourar."
+    ],
+    "dicas": [
+      "Congele as bolinhas cruas para assar depois.",
+      "Misture queijo parmesão para um sabor mais intenso."
+    ],
+    "linkFoto": "img/pao_de_queijo.webp"
+  },
+  {
+    "id": "torta-limao",
+    "nome": "Torta de Limão",
+    "texto1": [
+      "1 pacote de biscoito maisena triturado",
+      "3 colheres (sopa) de manteiga derretida",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "Suco de 3 limões",
+      "Raspas de limão para decorar"
+    ],
+    "texto2": [
+      "Misture o biscoito triturado com a manteiga até formar uma farofa úmida.",
+      "Forre uma forma e leve ao forno por 10 minutos.",
+      "Misture leite condensado, creme de leite e suco de limão até engrossar.",
+      "Coloque o creme sobre a base e leve à geladeira até firmar."
+    ],
+    "dicas": [
+      "Use limão tahiti para um sabor mais marcante.",
+      "Decore com raspas apenas na hora de servir."
+    ],
+    "linkFoto": "img/renata-imagem-receitas-torta-de-limao-1-xl.webp"
+  },
+  {
+    "id": "sopa-legumes",
+    "nome": "Sopa de Legumes",
+    "texto1": [
+      "2 batatas em cubos",
+      "1 cenoura em rodelas",
+      "1 abobrinha em cubos",
+      "1 tomate picado",
+      "1 cebola picada",
+      "1 litro de água ou caldo de legumes",
+      "Sal, pimenta e cheiro-verde a gosto"
+    ],
+    "texto2": [
+      "Refogue a cebola e o tomate até começar a desmanchar.",
+      "Adicione os legumes, a água ou caldo e tempere.",
+      "Cozinhe até os legumes ficarem macios.",
+      "Finalize com cheiro-verde e sirva quente."
+    ],
+    "dicas": [
+      "Bata parte da sopa no liquidificador para engrossar.",
+      "Acrescente macarrão pequeno para uma refeição mais completa."
+    ],
+    "linkFoto": "img/sopa-de-legumes-06-730x548.webp"
+  },
+  {
+    "id": "risoto-cogumelos",
+    "nome": "Risoto de Cogumelos",
+    "texto1": [
+      "1 xícara de arroz arbóreo",
+      "200 g de cogumelos fatiados",
+      "1/2 cebola picada",
+      "1/2 xícara de vinho branco opcional",
+      "3 xícaras de caldo de legumes quente",
+      "2 colheres (sopa) de manteiga",
+      "Queijo parmesão ralado a gosto"
+    ],
+    "texto2": [
+      "Refogue a cebola em parte da manteiga e adicione o arroz.",
+      "Coloque o vinho e mexa até evaporar.",
+      "Adicione o caldo quente aos poucos, mexendo sempre.",
+      "Quando o arroz estiver cremoso, misture os cogumelos, parmesão e manteiga."
+    ],
+    "dicas": [
+      "Mexer sempre ajuda a liberar o amido e deixar cremoso.",
+      "Sirva imediatamente para manter a textura ideal."
+    ],
+    "linkFoto": "img/risoto-de-cogumelos-1024x494.webp"
+  },
+  {
+    "id": "esfiha-carne",
+    "nome": "Esfiha de Carne",
+    "texto1": [
+      "500 g de farinha de trigo",
+      "10 g de fermento biológico seco",
+      "1 xícara de água morna",
+      "2 colheres (sopa) de óleo",
+      "300 g de carne moída",
+      "1 tomate picado",
+      "1 cebola picada",
+      "Sal, limão e cheiro-verde a gosto"
+    ],
+    "texto2": [
+      "Misture farinha, fermento, água, óleo e sal até formar uma massa macia.",
+      "Deixe descansar até dobrar de tamanho.",
+      "Tempere a carne com tomate, cebola, limão e cheiro-verde.",
+      "Modele as esfihas, recheie e asse até dourar."
+    ],
+    "dicas": [
+      "Escorra o excesso de líquido do recheio antes de montar.",
+      "Pincele gema nas bordas para dourar melhor."
+    ],
+    "linkFoto": "img/open-meat-sfiha.webp"
+  },
+  {
+    "id": "brownie-chocolate",
+    "nome": "Brownie de Chocolate",
+    "texto1": [
+      "200 g de chocolate meio amargo",
+      "3 colheres (sopa) de manteiga",
+      "1 xícara de açúcar",
+      "2 ovos",
+      "1/2 xícara de farinha de trigo",
+      "2 colheres (sopa) de chocolate em pó",
+      "Nozes ou gotas de chocolate a gosto"
+    ],
+    "texto2": [
+      "Derreta o chocolate com a manteiga e misture bem.",
+      "Adicione açúcar, ovos, farinha e chocolate em pó.",
+      "Misture até ficar homogêneo e acrescente nozes ou gotas de chocolate.",
+      "Asse em forma untada até criar casquinha por cima e ficar úmido por dentro."
+    ],
+    "dicas": [
+      "Não asse demais para manter o centro úmido.",
+      "Sirva com sorvete de creme."
+    ],
+    "linkFoto": "img/brownie-tradicional-300x200.webp"
+  }
+]
