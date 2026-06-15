@@ -1,4 +1,4 @@
-const baseUrl = import.meta.env.BASE_URL
+import { getImageUrl } from '../utils/images.js'
 
 export default function Contact() {
   return (
@@ -17,17 +17,17 @@ export default function Contact() {
 
           <a className="botao-social" href="https://www.instagram.com/juulio_c3sar/" target="_blank" rel="noreferrer">
             Instagram
-            <img src={`${baseUrl}img/instagram.png`} alt="Ícone do Instagram" className="titulo-social" />
+            <img src={getImageUrl('img/instagram.png')} alt="Ícone do Instagram" className="titulo-social" />
           </a>
 
           <a className="botao-social" href="https://github.com/JulioOEBoy" target="_blank" rel="noreferrer">
             Github
-            <img src={`${baseUrl}img/github.png`} alt="Ícone do Github" className="titulo-social" />
+            <img src={getImageUrl('img/github.png')} alt="Ícone do Github" className="titulo-social" />
           </a>
 
           <a className="botao-social" href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-ferreira-pedrini-176ba5271/" target="_blank" rel="noreferrer">
             LinkedIn
-            <img src={`${baseUrl}img/linkedin.png`} alt="Ícone do LinkedIn" className="icone-social" />
+            <img src={getImageUrl('img/linkedin.png')} alt="Ícone do LinkedIn" className="icone-social" />
           </a>
 
           <a className="botao-social" href="https://mail.google.com/mail/?view=cm&fs=1&to=jcpcgame8@gmail.com" target="_blank" rel="noreferrer">

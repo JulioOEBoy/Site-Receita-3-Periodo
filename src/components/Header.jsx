@@ -1,4 +1,4 @@
-const baseUrl = import.meta.env.BASE_URL
+import { getImageUrl } from '../utils/images.js'
 
 function menuClass(route, path) {
   return route === path ? 'link-ativo' : ''
@@ -18,7 +18,7 @@ export default function Header({ currentUser, onLogout, route, pesquisa, setPesq
     <header>
       <nav>
         <div className="logo">
-          <img className="icone" src={`${baseUrl}img/9911195.jpg`} alt="Logo do site" />
+          <img className="icone" src={getImageUrl('img/9911195.jpg')} alt="Logo do site" />
           <a className={menuClass(route, '/')} href="#/">Home</a>
         </div>
 
