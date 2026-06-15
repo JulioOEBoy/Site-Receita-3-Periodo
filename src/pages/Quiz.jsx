@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { readJson, writeJson } from '../utils/storage.js'
 
 const USERS_KEY = 'receitas_users'
 
@@ -21,7 +22,7 @@ const perguntas = [
 ]
 
 function saveUserScore(user, score) {
-  const users = JSON.parse(localStorage.getItem(USERS_KEY) || '[]')
+  const users = readJson(USERS_KEY, [])
   const updatedUser = {
     ...user,
     ultimoResultado: {
@@ -35,7 +36,7 @@ function saveUserScore(user, score) {
     savedUser.email === user.email ? updatedUser : savedUser
   ))
 
-  localStorage.setItem(USERS_KEY, JSON.stringify(updatedUsers))
+  writeJson(USERS_KEY, updatedUsers)
   return updatedUser
 }
 

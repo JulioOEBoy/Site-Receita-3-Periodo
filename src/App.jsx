@@ -9,6 +9,7 @@ import Contact from './pages/Contact.jsx'
 import Login from './pages/Login.jsx'
 import Quiz from './pages/Quiz.jsx'
 import receitas from './data/receitas.json'
+import { readJson, writeJson } from './utils/storage.js'
 
 const CURRENT_USER_KEY = 'receitas_current_user'
 
@@ -19,10 +20,7 @@ function getCurrentRoute() {
 export default function App() {
   const [route, setRoute] = useState(getCurrentRoute)
   const [pesquisa, setPesquisa] = useState('')
-  const [currentUser, setCurrentUser] = useState(() => {
-    const savedUser = localStorage.getItem(CURRENT_USER_KEY)
-    return savedUser ? JSON.parse(savedUser) : null
-  })
+  const [currentUser, setCurrentUser] = useState(() => readJson(CURRENT_USER_KEY, null))
 
   useEffect(() => {
     const handleHashChange = () => {
@@ -40,7 +38,7 @@ export default function App() {
 
   function updateCurrentUser(user) {
     if (user) {
-      localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(user))
+      writeJson(CURRENT_USER_KEY, user)
     } else {
       localStorage.removeItem(CURRENT_USER_KEY)
     }

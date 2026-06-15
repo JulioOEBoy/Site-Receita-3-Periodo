@@ -1,14 +1,14 @@
 import { useState } from 'react'
+import { readJson, writeJson } from '../utils/storage.js'
 
 const USERS_KEY = 'receitas_users'
 
 function getUsers() {
-  const users = localStorage.getItem(USERS_KEY)
-  return users ? JSON.parse(users) : []
+  return readJson(USERS_KEY, [])
 }
 
 function saveUsers(users) {
-  localStorage.setItem(USERS_KEY, JSON.stringify(users))
+  writeJson(USERS_KEY, users)
 }
 
 export default function Login({ onLogin, navigate }) {
